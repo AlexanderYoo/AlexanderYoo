@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexanderYoo
 - 👀 I’m interested in Java, Javascript and Python
-- 🌱 I’m currently learning Java and Javascript
+- 🌱 I’m currently learning and developing Java and Javascript
 - 💞️ I’m looking to collaborate on any kind of projects.
 - 📫 How to reach me zerocustum89@gmai.com
 
